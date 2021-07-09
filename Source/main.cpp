@@ -1,4 +1,4 @@
-/* -[Author:SevenSolaris]------------------------------- */
+﻿/* -[Author:SevenSolaris]------------------------------- */
 /* -[GitHub:https://github.com/SevenSolaris]------------ */
 /* -[Description:]-------------------------------------- */
 // OpenGL "starter" project from following tutorial:
@@ -6,9 +6,9 @@
 // https://github.com/VictorGordan/opengl-tutorials/tree/main/YoutubeOpenGL%206%20-%20Textures
 /* ----------------------------------------------------- */
 
-/* ----------------------------------------------------- */
-/* -[INCLUDES]------------------------------------------ */
-/* ----------------------------------------------------- */
+//╔════════════════════════════════════════════════════════╗
+//║ Includes                                               ║
+//╚════════════════════════════════════════════════════════╝
 #pragma region Includes
 
 #include<iostream>
