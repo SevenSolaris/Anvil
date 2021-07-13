@@ -19,10 +19,12 @@
 //╚════════════════════════════════════════════════════════════════════════════════════════════════╝
 #pragma region [Defines]
 
+// Allow for the user to define their own default width.
 #ifndef DEFAULT_WINDOW_WIDTH
 #define DEFAULT_WINDOW_WIDTH 1280
 #endif
 
+// Allow for the user to define their own default height.
 #ifndef DEFAULT_WINDOW_HEIGHT 720
 #define DEFAULT_WINDOW_HEIGHT
 #endif
