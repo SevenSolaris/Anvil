@@ -1,5 +1,4 @@
-﻿#ifndef GAME_ENGINE_H
-#define GAME_ENGINE_H
+﻿#pragma once
 
 //╔════════════════════════════════════════════════════════╗
 //║ Includes                                               ║
@@ -57,7 +56,3 @@ namespace engine
 };
 
 #pragma endregion [Engine]
-
-
-// No code beyond this point.
-#endif
