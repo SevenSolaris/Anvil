@@ -60,6 +60,15 @@ namespace engine
 		}
 	}
 
+	void Engine::Run()
+	{
+		while (!this->terminateGameLoop)
+		{
+			// Game loop here.
+			
+		}
+	}
+
 	void Engine::Terminate()
 	{
 		if (this->Window)

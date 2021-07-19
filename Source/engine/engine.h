@@ -37,6 +37,8 @@ namespace engine
 
 			void SetWindowSize(int width, int height);
 
+			void Run();
+
 			void Terminate();
 
 			int AddScene(Scene* scene);
