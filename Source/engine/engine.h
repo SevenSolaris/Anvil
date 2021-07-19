@@ -10,6 +10,7 @@
 #include "types.h"
 #include "scene.h"
 #include "gamewindow.h"
+#include <vector>
 
 
 #pragma endregion [Includes]
@@ -27,6 +28,7 @@ namespace engine
 	{
 		private:
 			bool terminateGameLoop = false;
+			std::vector<Scene*> sceneList;
 		public:
 			GameWindow* Window;
 
