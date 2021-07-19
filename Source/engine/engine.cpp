@@ -71,9 +71,15 @@ namespace engine
 		}
 	}
 
-	void Engine::AddScene(Scene* scene)
+	int Engine::AddScene(Scene* scene)
 	{
-		// TODO: Yet to be implemented.
+		if (scene)
+		{
+			int result = this->sceneList.size();
+			this->sceneList.push_back(scene);
+			return result;
+		}
+		return -1;
 	}
 
 };
