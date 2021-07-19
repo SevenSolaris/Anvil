@@ -71,6 +71,11 @@ namespace engine
 		}
 	}
 
+	void Engine::AddScene(Scene* scene)
+	{
+		// TODO: Yet to be implemented.
+	}
+
 };
 
 #pragma endregion [Engine]
