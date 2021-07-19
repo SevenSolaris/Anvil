@@ -25,8 +25,8 @@
 #endif
 
 // Allow for the user to define their own default height.
-#ifndef DEFAULT_WINDOW_HEIGHT 720
-#define DEFAULT_WINDOW_HEIGHT
+#ifndef DEFAULT_WINDOW_HEIGHT
+#define DEFAULT_WINDOW_HEIGHT 720
 #endif
 
 #pragma endregion [Defines]
