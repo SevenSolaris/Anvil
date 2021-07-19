@@ -39,7 +39,7 @@ namespace engine
 
 			void Terminate();
 
-			void AddScene(Scene* scene);
+			int AddScene(Scene* scene);
 	};
 
 
