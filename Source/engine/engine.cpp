@@ -62,7 +62,7 @@ namespace engine
 
 	void Engine::Run()
 	{
-		while (!this->terminateGameLoop)
+		while (this->Window->Validate() && !(this->Window->ShouldClose() || this->terminateGameLoop))
 		{
 			// Game loop here.
 			
