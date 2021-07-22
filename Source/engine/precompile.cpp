@@ -1,3 +1,8 @@
+/*
+This source file is to add headers that you would like to
+precompile in order to make compilation times faster.
+*/
+
 #include<boost/signals2.hpp>
 #include<boost/bind.hpp>
 
