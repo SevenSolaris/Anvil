@@ -36,8 +36,6 @@
 //╚════════════════════════════════════════════════════════════════════════════════════════════════╝
 #pragma region [Class]
 
-using namespace boost::signals2;
-
 class GameWindow
 {
 	public:
