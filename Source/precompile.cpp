@@ -20,3 +20,5 @@ precompile in order to make compilation times faster.
 #include<iostream>
 #include<glad/glad.h>
 #include<GLFW/glfw3.h>
+
+#include "engine/gamewindow.h"
