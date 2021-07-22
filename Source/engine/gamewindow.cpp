@@ -12,6 +12,7 @@
 #include<glad/glad.h>
 #include<GLFW/glfw3.h>
 #include<boost/bind.hpp>
+#include<boost/signals2.hpp>
 #include "gamewindow.h"
 #include "helpers.h"
 #include "util.h"
