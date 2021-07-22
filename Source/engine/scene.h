@@ -1,5 +1,5 @@
-#ifndef SCENE_H
-#define SCENE_H
+#ifndef SCENE_HEADER_FILE
+#define SCENE_HEADER_FILE
 
 /* ---------------------------------------------------------- */
 /* -[INCLUDES]----------------------------------------------- */
@@ -28,4 +28,4 @@ namespace engine
 #pragma endregion
 
 // No code beyond this point
-#endif
+#endif // SCENE_HEADER_FILE

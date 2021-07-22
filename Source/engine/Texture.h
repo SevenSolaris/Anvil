@@ -1,5 +1,5 @@
-#ifndef TEXTURE_CLASS_H
-#define TEXTURE_CLASS_H
+#ifndef TEXTURE_HEADER_FILE
+#define TEXTURE_HEADER_FILE
 
 #include<glad/glad.h>
 #include<stb/stb_image.h>
@@ -22,4 +22,4 @@ public:
 	// Deletes a texture
 	void Delete();
 };
-#endif
+#endif // TEXTURE_HEADER_FILE

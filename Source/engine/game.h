@@ -1,6 +1,6 @@
-#ifndef ENGINE_GAME_H
-#define ENGINE_GAME_H
+#ifndef GAME_HEADER_FILE
+#define GAME_HEADER_FILE
 
 
 
-#endif
+#endif // GAME_HEADER_FILE

@@ -1,4 +1,5 @@
-﻿#pragma once
+﻿#ifndef GAMEWINDOW_HEADER_FILE
+#define GAMEWINDOW_HEADER_FILE
 
 //╔════════════════════════════════════════════════════════════════════════════════════════════════╗
 //║ Includes                                                                                       ║
@@ -219,3 +220,5 @@ class GameWindow
 };
 
 #pragma endregion [Class]
+
+#endif // GAMEWINDOW_HEADER_FILE

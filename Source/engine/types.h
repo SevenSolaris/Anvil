@@ -1,5 +1,5 @@
-#ifndef ENGINE_TYPES_H
-#define ENGINE_TYPES_H
+#ifndef TYPES_HEADER_FILE
+#define TYPES_HEADER_FILE
 
 /* ---------------------------------------------------------- */
 /* -[Types]-------------------------------------------------- */
@@ -10,4 +10,4 @@ typedef unsigned int uint;
 
 #pragma endregion [Types]
 
-#endif
+#endif // TYPES_HEADER_FILE

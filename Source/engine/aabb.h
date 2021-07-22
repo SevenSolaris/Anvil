@@ -1,4 +1,5 @@
-﻿#pragma once
+﻿#ifndef AABB_HEADER_FILE
+#define AABB_HEADER_FILE
 
 // https://www.scratchapixel.com/lessons/3d-basic-rendering/minimal-ray-tracer-rendering-simple-shapes/ray-box-intersection
 
@@ -36,3 +37,5 @@ public:
 };
 
 #pragma endregion [Class]
+
+#endif //AABB_HEADER_FILE

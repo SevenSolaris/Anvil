@@ -1,5 +1,5 @@
-#ifndef EBO_CLASS_H
-#define EBO_CLASS_H
+#ifndef EBO_HEADER_FILE
+#define EBO_HEADER_FILE
 
 #include<glad/glad.h>
 
@@ -14,4 +14,4 @@ public:
 	void Delete();
 };
 
-#endif
+#endif // EBO_HEADER_FILE

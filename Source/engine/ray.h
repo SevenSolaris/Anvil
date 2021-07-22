@@ -1,4 +1,5 @@
-﻿#pragma once
+﻿#ifndef RAY_HEADER_FILE
+#define RAY_HEADER_FILE
 
 //╔════════════════════════════════════════════════════════╗
 //║ Includes                                               ║
@@ -34,3 +35,5 @@ public:
 };
 
 #pragma endregion [Class]
+
+#endif // RAY_HEADER_FILE

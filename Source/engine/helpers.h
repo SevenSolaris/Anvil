@@ -1,5 +1,5 @@
-#ifndef GAME_HELPERS_H
-#define GAME_HELPERS_H
+#ifndef HELPERS_HEADER_FILE
+#define HELPERS_HEADER_FILE
 
 /* ---------------------------------------------------------- */
 /* -[Includes]----------------------------------------------- */
@@ -30,4 +30,4 @@ namespace helpers
 #pragma endregion [Helpers]
 
 // No code beyond this point.
-#endif
+#endif // HELPERS_HEADER_FILE

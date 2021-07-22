@@ -1,6 +1,6 @@
-#ifndef GAME_STRINGS_H
-#define GAME_STRINGS_H
+#ifndef STRINGS_HEADER_FILE
+#define STRINGS_HEADER_FILE
 
 #define DEFAULT_WINDOW_TITLE "Game Window"
 
-#endif
+#endif // STRINGS_HEADER_FILE

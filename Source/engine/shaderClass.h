@@ -1,5 +1,5 @@
-#ifndef SHADER_CLASS_H
-#define SHADER_CLASS_H
+#ifndef SHADERCLASS_HEADER_FILE
+#define SHADERCLASS_HEADER_FILE
 
 #include<glad/glad.h>
 #include<string>
@@ -25,4 +25,4 @@ class Shader
 
 };
 
-#endif
+#endif // SHADERCLASS_HEADER_FILE

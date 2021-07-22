@@ -1,4 +1,5 @@
-﻿#pragma once
+﻿#ifndef ENGINE_HEADER_FILE
+#define ENGINE_HEADER_FILE
 
 //╔════════════════════════════════════════════════════════╗
 //║ Includes                                               ║
@@ -60,3 +61,5 @@ namespace engine
 };
 
 #pragma endregion [Engine]
+
+#endif // ENGINE_HEADER_FILE
