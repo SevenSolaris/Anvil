@@ -1,4 +1,5 @@
-﻿#pragma once
+﻿#ifndef NBT_HEADER_FILE
+#define NBT_HEADER_FILE
 
 #include<iostream>>
 
@@ -42,4 +43,6 @@ class NbtTag
 
 
 #pragma endregion [Includes]
+
+#endif // NBT_HEADER_FILE
 

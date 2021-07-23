@@ -1,5 +1,5 @@
-#ifndef UTIL_H
-#define UTIL_H
+#ifndef UTIL_HEADER_FILE
+#define UTIL_HEADER_FILE
 
 /* ---------------------------------------------------------- */
 /* -[Helper Macros]------------------------------------------ */
@@ -154,4 +154,4 @@ public:
 
 
 // No code beyond this point.
-#endif
+#endif // UTIL_HEADER_FILE

@@ -1,4 +1,5 @@
-﻿#pragma once
+﻿#ifndef CHUNK_HEADER_FILE
+#define CHUNK_HEADER_FILE
 
 //╔════════════════════════════════════════════════════════╗
 //║ Includes                                               ║
@@ -8,3 +9,5 @@
 
 
 #pragma endregion [Includes]
+
+#endif // CHUNK_HEADER_FILE
