@@ -1,5 +1,5 @@
-#ifndef VBO_CLASS_H
-#define VBO_CLASS_H
+#ifndef VBO_HEADER_FILE
+#define VBO_HEADER_FILE
 
 #include<glad/glad.h>
 
@@ -14,4 +14,4 @@ class VBO
 		void Delete();
 };
 
-#endif
+#endif // VBO_HEADER_FILE
